@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/todo-list/static/css/main.0ca808f5.css",
-    "main.js": "/todo-list/static/js/main.50174507.js",
+    "main.css": "/todo-list/static/css/main.94d9215a.css",
+    "main.js": "/todo-list/static/js/main.8fb6fddf.js",
     "static/media/trash-can-dynamic-premium.png": "/todo-list/static/media/trash-can-dynamic-premium.d74f5dfdfdcd5409220c.png",
     "static/media/eyedropper-dynamic-color.png": "/todo-list/static/media/eyedropper-dynamic-color.a8273f40239c084a8427.png",
     "static/media/eyedropper-dynamic-gradient.png": "/todo-list/static/media/eyedropper-dynamic-gradient.1f420e15c9d7e2aabc9d.png",
@@ -21,11 +21,11 @@
     "static/media/magnifying-glass-solid.svg": "/todo-list/static/media/magnifying-glass-solid.cf315284d6e0edc1c7686864aa6da0bc.svg",
     "static/media/trash-solid.svg": "/todo-list/static/media/trash-solid.26cfd3d2054b6e033432eeaef8b63944.svg",
     "static/media/check-solid.svg": "/todo-list/static/media/check-solid.d77a6106b69459fb02faabc5c2925156.svg",
-    "main.0ca808f5.css.map": "/todo-list/static/css/main.0ca808f5.css.map",
-    "main.50174507.js.map": "/todo-list/static/js/main.50174507.js.map"
+    "main.94d9215a.css.map": "/todo-list/static/css/main.94d9215a.css.map",
+    "main.8fb6fddf.js.map": "/todo-list/static/js/main.8fb6fddf.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ca808f5.css",
-    "static/js/main.50174507.js"
+    "static/css/main.94d9215a.css",
+    "static/js/main.8fb6fddf.js"
   ]
 }
