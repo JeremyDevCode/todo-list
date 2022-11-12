@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/todo-list/static/css/main.0ca808f5.css",
+    "main.js": "/todo-list/static/js/main.50174507.js",
+    "static/media/trash-can-dynamic-premium.png": "/todo-list/static/media/trash-can-dynamic-premium.d74f5dfdfdcd5409220c.png",
+    "static/media/eyedropper-dynamic-color.png": "/todo-list/static/media/eyedropper-dynamic-color.a8273f40239c084a8427.png",
+    "static/media/eyedropper-dynamic-gradient.png": "/todo-list/static/media/eyedropper-dynamic-gradient.1f420e15c9d7e2aabc9d.png",
+    "static/media/trash-can-dynamic-gradient.png": "/todo-list/static/media/trash-can-dynamic-gradient.3e92723a4c9d9cdf47fe.png",
+    "static/media/explorer-dynamic-colorx.png": "/todo-list/static/media/explorer-dynamic-colorx.a5cc3f111dee2b07590b.png",
+    "static/media/explorer-dynamic-premium.png": "/todo-list/static/media/explorer-dynamic-premium.f34b872832b6e3acd351.png",
+    "static/media/caution.png": "/todo-list/static/media/caution.0c04c4fc1daaaf6e0f41.png",
+    "static/media/bomb.png": "/todo-list/static/media/bomb.705e36725b5623b1315f.png",
+    "static/media/document.png": "/todo-list/static/media/document.9367bbefaad2fe4525fa.png",
+    "static/media/logo.png": "/todo-list/static/media/logo.70141a4254122d130c45.png",
+    "static/media/restore.webp": "/todo-list/static/media/restore.365983cb40499565d7fa.webp",
+    "static/media/moon.png": "/todo-list/static/media/moon.3fe2513d44bb93bbcece.png",
+    "static/media/sun.png": "/todo-list/static/media/sun.e81609105b8eb137f55d.png",
+    "static/media/filter.png": "/todo-list/static/media/filter.d12af202184f67f544ca.png",
+    "static/media/trash-can-regular.svg": "/todo-list/static/media/trash-can-regular.12fcd78cfff02b4db324c26b1d1fcaff.svg",
+    "index.html": "/todo-list/index.html",
+    "static/media/magnifying-glass-solid.svg": "/todo-list/static/media/magnifying-glass-solid.cf315284d6e0edc1c7686864aa6da0bc.svg",
+    "static/media/trash-solid.svg": "/todo-list/static/media/trash-solid.26cfd3d2054b6e033432eeaef8b63944.svg",
+    "static/media/check-solid.svg": "/todo-list/static/media/check-solid.d77a6106b69459fb02faabc5c2925156.svg",
+    "main.0ca808f5.css.map": "/todo-list/static/css/main.0ca808f5.css.map",
+    "main.50174507.js.map": "/todo-list/static/js/main.50174507.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ca808f5.css",
+    "static/js/main.50174507.js"
+  ]
+}
